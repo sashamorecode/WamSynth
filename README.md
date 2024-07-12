@@ -6,3 +6,4 @@
 - downsampling
 - 2 mode distortion
 - basic hp/lp filter
+- polyphony 
