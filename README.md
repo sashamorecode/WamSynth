@@ -1,5 +1,5 @@
 # Description
-A vintage-inspired wavetable synthesizer.
+A retro-inspired wavetable synthesizer.
 ![afbeelding](https://github.com/user-attachments/assets/a3e53a26-8b47-49b9-b6ce-de16ebae4421)
 
 # Preview
